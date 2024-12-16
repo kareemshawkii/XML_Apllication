@@ -32,8 +32,4 @@ This project provides a set of utilities to handle various operations on XML fil
 - C++17 or higher compiler.
 - Graphviz installed (for visualizing the graph).
 
-### Building and Running the Program
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/xml-processing-utility.git
